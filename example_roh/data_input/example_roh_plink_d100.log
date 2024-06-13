@@ -1,0 +1,30 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --homozyg
+  --homozyg-density 100
+  --out example_roh_plink_d100
+  --vcf example.vcf
+
+Hostname: n7449
+Working directory: /u/home/c/cdi/qcbio_2024_cdi/roh/data_input
+Start time: Wed Jun 12 21:50:47 2024
+
+Random number seed: 1718254247
+192097 MB RAM detected; reserving 96048 MB for main workspace.
+--vcf: example_roh_plink_d100-temporary.bed +
+example_roh_plink_d100-temporary.bim + example_roh_plink_d100-temporary.fam
+written.
+198625 variants loaded from .bim file.
+3 people (0 males, 0 females, 3 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to example_roh_plink_d100.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 3 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999589.
+198625 variants and 3 people pass filters and QC.
+Note: No phenotypes present.
+--homozyg: Scan complete, found 3 ROH.
+Results saved to example_roh_plink_d100.hom + example_roh_plink_d100.hom.indiv
++ example_roh_plink_d100.hom.summary .
+
+End time: Wed Jun 12 21:50:47 2024
